@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aubrey Tsorayi</h1>
-<h3 align="center">Self taught developer whose always learning</h3>
+<h3 align="center">Self taught developer who is always learning</h3>
 
 - 🔭 I’m currently working on **News App using Flutter**
 
